@@ -1,7 +1,8 @@
 # 인공지능 기초를 위한 FAQ (1-13번, 28-32번)
 ---
-
-
+![Image](https://github.com/user-attachments/assets/ea4a5397-e7bc-4d97-8ba7-22fa6b91d59a)
+![Image](https://github.com/user-attachments/assets/67932b51-70a6-49b1-9600-d4c9ceca7fce)
+![Image](https://github.com/user-attachments/assets/b5884e9c-8bec-4447-bc28-c59f4a271902)
 ---
 1. 인공지능에서 지능에 해당하는 기능은 무엇인가?<br>
   생각하고 판단하는 능력. 즉, 인간의 두뇌처럼 정보를 이해하고, 결정을 내리는 것을 의미한다.
